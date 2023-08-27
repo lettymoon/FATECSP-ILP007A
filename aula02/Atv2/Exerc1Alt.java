@@ -1,8 +1,9 @@
 package aula02.Atv2;
 
+import java.util.Map;
 import java.util.Scanner;
 
-public class Exerc1{
+public class Exerc1Alt{
     public static void main(String[] args) {
 
         int dia, mes, ano;
@@ -25,18 +26,29 @@ public class Exerc1{
 
         int res = (xparte1 + xparte2) % 5;
         //System.out.printf("%d", res);
-
-        if(res==0)
-            System.out.println("Tímido.");
-        else if(res==1)
-            System.out.println("Sonhador.");
-        else if(res==2)
-            System.out.println("Paquerador.");
-        else if(res==3)
-            System.out.println("Atraente.");
-        else if(res==4)
-            System.out.println("Irresistível..");
-
+        System.out.println(ClassificadoDePerfil.obterPerfil(res));
     }
 
+    public static class ClassificadoDePerfil {
+          /*
+        utilizar o HashMap
+
+        0, timido
+        1, sonhador
+        2, paquerador
+        3, atraente
+        4, irresistível
+
+         */
+        public static String obterPerfil(int num){
+            Map<Integer,String> tabelaPerfil = Map.of(
+                    0, "Tímido.",
+                    1, "Sonhador.",
+                    2, "Paquerdor.",
+                    3, "Atraente.",
+                    4, "Irresistível."
+            );
+            return tabelaPerfil.get(num);
+        }
+    }
 }

@@ -52,6 +52,9 @@ Hello World!
 ### Aulas
 
 - [Aula 01: Introdução ao Java](/aula01)
+  - [Lista aula 01](/aula01/Atv1)
+- [Aula 02: Estruturas de decisão e repetição](/aula02)
+  - [Lista aula 02](/aula02/Atv2)
 
 ## Links Didáticos
 

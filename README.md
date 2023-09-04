@@ -6,17 +6,17 @@ Repositório da disciplina ILP007A Programação Orientada a Objetos. FATEC São
 
 Disciplina ministrada usando a linguagem Java.
 
-Professor: Grace Anne Pontes Borges (DTI-FATECSP)
+Professor: [Grace Anne Pontes Borges](https://www.escavador.com/sobre/6454590/grace-anne-pontes-borges)
 
 ## Index
 
 - [Programação Orientada à Objetos](#programação-orientada-à-objetos)
-    - [Index](#index)
-    - [Instalando](#instalando)
-    - [Executando](#executando)
-    - [Conteúdo](#conteúdo)
-        - [Aulas](#aulas)
-    - [Links Didáticos](#links-didáticos)
+  - [Index](#index)
+  - [Instalando](#instalando)
+  - [Executando](#executando)
+  - [Conteúdo](#conteúdo)
+    - [Aulas](#aulas)
+  - [Links Didáticos](#links-didáticos)
 
 ## Instalando
 
@@ -36,7 +36,7 @@ Ou apenas utilize o [IntelliJ](https://www.jetbrains.com/pt-br/idea/download/?se
 Exemplo prático estando na pasta raiz:
 
 ```bash
-cd aula01/
+cd src/main/java/org/example/aula01/
 javac Teste.java
 java Teste.java
 ```
@@ -51,11 +51,14 @@ Hello World!
 
 ### Aulas
 
-- [Aula 01: Introdução ao Java](/aula01)
-  - [Lista aula 01](/aula01/Atv1)
-- [Aula 02: Estruturas de decisão e repetição](/aula02)
-  - [Lista aula 02](/aula02/Atv2)
+- [Aula 01: Introdução ao Java](/src/main/java/org/example/aula01)
+  - [Lista aula 01](/src/main/java/org/example/aula01/Atv1)
+- [Aula 02: Estruturas de decisão e repetição](/src/main/java/org/example/aula02/)
+  - [Lista aula 02](/src/main/java/org/example/aula02/Atv2/)
+- [Aula 03: Classes, encapsulamento e construtores](/src/main/java/org/example/aula03/)
+  - [Lista aula 03](/src/main/java/org/example/aula03/Atv3/)
 
 ## Links Didáticos
 
-- []().
+- [Canal Bóson Treinamentos - O que é POO](https://www.youtube.com/watch?v=dG7LlYne2VA)
+- []()

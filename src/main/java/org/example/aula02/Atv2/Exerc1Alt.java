@@ -1,4 +1,4 @@
-package aula02.Atv2;
+package src.main.java.org.example.Atv2;
 
 import java.util.Map;
 import java.util.Scanner;

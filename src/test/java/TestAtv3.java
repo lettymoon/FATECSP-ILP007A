@@ -1,7 +1,7 @@
 package src.test.java;
 
 import org.junit.Test;
-import src.main.java.org.example.Atv3.Circulo;
+import src.main.java.org.example.aula03.Atv3.ClasseCirculo.Circulo;
 
 import static org.junit.Assert.assertEquals;
 

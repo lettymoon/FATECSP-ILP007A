@@ -64,9 +64,6 @@ Hello World!
 - [Aula 06: Arrays](/poo/ilp007/src/main/java/org/example/aula06/)
   - [Lista aula 06](/poo/ilp007/src/main/java/org/example/aula06/Atv6/)
 
-- [pasta](/poo/ilp007/src/main/java/org/example/aula01/Atv1/Temperatura.java)
-- [pstales](/poo/ilp007/src/main/java/org/example/aula02/Atv2/)
-
 ## Links Didáticos
 
 - [Canal Bóson Treinamentos - O que é POO](https://www.youtube.com/watch?v=dG7LlYne2VA)

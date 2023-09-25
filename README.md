@@ -61,6 +61,8 @@ Hello World!
   - [Lista aula 04](/poo/ilp007/src/main/java/org/example/aula04/Atv4/)
 - [Aula 05: Noções de UML](/poo/ilp007/src/main/java/org/example/aula05/)
   - [Lista aula 05](/poo/ilp007/src/main/java/org/example/aula05/Atv5/)
+- [Aula 06: Arrays](/poo/ilp007/src/main/java/org/example/aula06/)
+  - [Lista aula 06](/poo/ilp007/src/main/java/org/example/aula06/Atv6/)
 
 ## Links Didáticos
 

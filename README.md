@@ -67,3 +67,4 @@ Hello World!
 ## Links Didáticos
 
 - [Canal Bóson Treinamentos - O que é POO](https://www.youtube.com/watch?v=dG7LlYne2VA)
+- [HackerRank - Java](https://www.hackerrank.com/domains/java)

@@ -1,5 +1,5 @@
 package src.main.java.org.example.aula01.Atv01;
-/* Atividade 01 - Exercício 01 Temperature
+/* Atividade 01 - Exercício 01 Temperatura
 
 Faça um programa em Java que leia uma temperatura em Fahrenheit, calcule e exiba seu valor em Celsius.
 Fórmula: C = (F-32) * 5 / 9.

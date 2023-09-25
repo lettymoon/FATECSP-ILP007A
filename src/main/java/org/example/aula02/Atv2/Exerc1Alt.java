@@ -1,5 +1,7 @@
 package src.main.java.org.example.Atv2;
 
+// Utilizando HashMap
+
 import java.util.Map;
 import java.util.Scanner;
 

@@ -51,18 +51,19 @@ Hello World!
 
 ### Aulas
 
-- [Aula 01: Introdução ao Java](/poo/ilp007/src/main/java/org/example/aula01/)
-  - [Lista aula 01](/poo/ilp007/src/main/java/org/example/aula01/Atv1/)
-- [Aula 02: Estruturas de decisão e repetição](/poo/ilp007/src/main/java/org/example/aula02/)
-  - [Lista aula 02](/poo/ilp007/src/main/java/org/example/aula02/Atv2/)
-- [Aula 03: Classes, encapsulamento e construtores](/poo/ilp007/src/main/java/org/example/aula03/)
-  - [Lista aula 03](/poo/ilp007/src/main/java/org/example/aula03/Atv3/)
-- [Aula 04: Sobrecarga de métodos](/poo/ilp007/src/main/java/org/example/aula04/)
-  - [Lista aula 04](/poo/ilp007/src/main/java/org/example/aula04/Atv4/)
-- [Aula 05: Noções de UML](/poo/ilp007/src/main/java/org/example/aula05/)
-  - [Lista aula 05](/poo/ilp007/src/main/java/org/example/aula05/Atv5/)
-- [Aula 06: Arrays](/poo/ilp007/src/main/java/org/example/aula06/)
-  - [Lista aula 06](/poo/ilp007/src/main/java/org/example/aula06/Atv6/)
+- [Aula 01: Introdução à disciplina](-)
+- [Aula 02: Introdução ao Java](/poo/ilp007/src/main/java/org/example/aula01/)
+  - [Lista aula 02](/poo/ilp007/src/main/java/org/example/aula01/Atv1/)
+- [Aula 03: Estruturas de decisão e repetição](/poo/ilp007/src/main/java/org/example/aula02/)
+  - [Lista aula 03](/poo/ilp007/src/main/java/org/example/aula02/Atv2/)
+- [Aula 04: Classes, encapsulamento e construtores](/poo/ilp007/src/main/java/org/example/aula03/)
+  - [Lista aula 04](/poo/ilp007/src/main/java/org/example/aula03/Atv3/)
+- [Aula 05: Sobrecarga de métodos](/poo/ilp007/src/main/java/org/example/aula04/)
+  - [Lista aula 05](/poo/ilp007/src/main/java/org/example/aula04/Atv4/)
+- [Aula 06: Noções de UML](/poo/ilp007/src/main/java/org/example/aula05/)
+  - [Lista aula 06](/poo/ilp007/src/main/java/org/example/aula05/Atv5/)
+- [Aula 07: Arrays](/poo/ilp007/src/main/java/org/example/aula06/)
+  - [Lista aula 07](/poo/ilp007/src/main/java/org/example/aula06/Atv6/)
 
 ## Links Didáticos
 

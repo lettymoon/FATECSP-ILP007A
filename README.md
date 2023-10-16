@@ -53,19 +53,19 @@ Hello World!
 
 - [Aula 01: Introdução à disciplina](-)
 - [Aula 02: Introdução ao Java](-)
-  - [Lista aula 02](/ilp007/src/main/java/org/example/aula02/Atv2)
+  - [Lista aula 02](/src/main/java/org/example/aula02/Atv2)
 - [Aula 03: Estruturas de decisão e repetição](-)
-  - [Lista aula 03](/ilp007/src/main/java/org/example/aula03/Atv3/)
+  - [Lista aula 03](/src/main/java/org/example/aula03/Atv3/)
 - [Aula 04: Classes, encapsulamento e construtores](-)
-  - [Lista aula 04](/poo/ilp007/src/main/java/org/example/aula04/Atv4/)
+  - [Lista aula 04](/src/main/java/org/example/aula04/Atv4/)
 - [Aula 05: Sobrecarga de métodos](-)
-  - [Lista aula 05](/poo/ilp007/src/main/java/org/example/aula05/Atv5/)
+  - [Lista aula 05](/src/main/java/org/example/aula05/Atv5/)
 - [Aula 06: Noções de UML](-)
-  - [Lista aula 06](/poo/ilp007/src/main/java/org/example/aula06/Atv6/)
+  - [Lista aula 06](/src/main/java/org/example/aula06/Atv6/)
 - [Aula 07: Arrays](-)
-  - [Lista aula 07](/ilp007/src/main/java/org/example/aula07/)
+  - [Lista aula 07](/src/main/java/org/example/aula07/)
 - [Aula 08: Revisão e Lista de Exercícios](-)
-  - [Lista 1 e 2](/ilp007/src/main/java/org/example/aula08/)
+  - [Lista 1 e 2](/src/main/java/org/example/aula08/)
 
 ## Links Didáticos
 

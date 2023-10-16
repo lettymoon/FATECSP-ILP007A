@@ -1,0 +1,13 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¢şãúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éó¢ƒıÿÿÿÿ
+m	java:S116"SRename this field "NumConta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤“Üúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(­”Äİ
+@	java:S106"+Replace this use of System.out by a logger.(¬ñÅ
+E	java:S106!"+Replace this use of System.out by a logger.(çôÍşıÿÿÿÿ
+@	java:S106#"+Replace this use of System.out by a logger.(¡³Ú
+E	java:S106'"+Replace this use of System.out by a logger.(¦©¤„ıÿÿÿÿ
+@	java:S106("+Replace this use of System.out by a logger.(Ä’ê¦
+E	java:S106)"+Replace this use of System.out by a logger.(Ü±ª¿ùÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(Šü€¾şÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(¦©¤„ıÿÿÿÿ

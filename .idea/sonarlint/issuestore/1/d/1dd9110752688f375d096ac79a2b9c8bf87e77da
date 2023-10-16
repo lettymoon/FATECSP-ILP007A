@@ -1,0 +1,10 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(…®à˜ûÿÿÿÿ8òöÿ¯±1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûƒ€¸8óöÿ¯±1
+W
+java:S1854"5Remove this useless assignment to local variable "f".(…®à˜ûÿÿÿÿ8øöÿ¯±1
+H
+java:S1481"&Remove this unused "f" local variable.(É”©òûÿÿÿÿ8¸‚°±1
+L	java:S106"+Replace this use of System.out by a logger.(òÒ©šøÿÿÿÿ8‚²°±1
+L	java:S106"+Replace this use of System.out by a logger.(Öùá¡şÿÿÿÿ8²Â°±1

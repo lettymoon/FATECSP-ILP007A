@@ -63,7 +63,7 @@ Hello World!
 - [Aula 06: Noções de UML](-)
   - [Lista aula 06](/src/main/java/org/example/aula06/Atv6/)
 - [Aula 07: Arrays](-)
-  - [Lista aula 07](/src/main/java/org/example/aula07/)
+  - [Lista aula 07](/src/main/java/org/example/aula07/Atv7)
 - [Aula 08: Revisão e Lista de Exercícios](-)
   - [Lista 1 e 2](/src/main/java/org/example/aula08/)
 

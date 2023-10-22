@@ -1,8 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûƒ€¸
-n
-java:S1450"SRemove the "taxa" field and declare it as a local variable in the relevant methods.(ýçÏïûÿÿÿÿ
-E	java:S106&"+Replace this use of System.out by a logger.(åþÚ®ÿÿÿÿÿ
-E	java:S106'"+Replace this use of System.out by a logger.(Ÿû¡Ìøÿÿÿÿ
-@	java:S106("+Replace this use of System.out by a logger.(œˆÌ§
-E	java:S106)"+Replace this use of System.out by a logger.(åþÚ®ÿÿÿÿÿ

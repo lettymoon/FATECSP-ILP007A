@@ -1,10 +1,0 @@
-
-Ø
-java:S1598"ÁThis file "Exerc1Alt.java" should be located in "src/main/java/org/example/Atv2" directory, not in "/home/letty/Ãrea de Trabalho/coding/fatec/poo/ilp007/src/main/java/org/example/aula02/Atv2".(ó³®ê
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó³®ê
-[
-java:S1659"@Declare "mes" and all following declarations on a separate line.(ÖÏçÊúÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(àñ¶éıÿÿÿÿ
-Q	java:S125"<This block of commented-out lines of code should be removed.(§¯™¦
-U
-java:S1118"":Add a private constructor to hide the implicit public one.(ªÌöıÿÿÿÿ

@@ -1,4 +1,4 @@
-package src.main.java.org.example.aula04.Atv4;
+package src.main.java.org.example.Atv5;
 
 public class AreaTerreno {
     private double lado;

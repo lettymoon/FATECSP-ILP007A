@@ -1,0 +1,6 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“‹ÿַ‎ÿÿÿÿ8טנגֵµ1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ףש™ûÿÿÿÿ
+\
+java:S1161":Add the "@Override" annotation above this method signature(לפתךרÿÿÿÿ8קנגֵµ1
+L	java:S106"+Replace this use of System.out by a logger.(ףיה¶ÿÿÿÿÿ8רנגֵµ1

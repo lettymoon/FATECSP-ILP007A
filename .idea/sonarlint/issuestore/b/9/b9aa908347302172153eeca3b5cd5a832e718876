@@ -1,12 +1,0 @@
-
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ Â‚8îİİ°±1
-c
-java:S1126"AReplace this if-then-else statement by a single return statement.(ÿ¦Íÿÿÿÿÿ8‹Şİ°±1
-c
-java:S1126"AReplace this if-then-else statement by a single return statement.(×Ü‚·ÿÿÿÿÿ8½êê°±1
-G	java:S1060"+Replace this use of System.out by a logger.(³„°®8—Şİ°±1
-L	java:S1061"+Replace this use of System.out by a logger.(Œ´ş‘ÿÿÿÿÿ8™½ê°±1
-c
-java:S34572"AFormat specifiers should be used instead of string concatenation.(­¶â¥ûÿÿÿÿ8™½ê°±1
-L	java:S1062"+Replace this use of System.out by a logger.(­¶â¥ûÿÿÿÿ8š½ê°±1
-L	java:S1065"+Replace this use of System.out by a logger.(í´öûÿÿÿÿ8š½ê°±1

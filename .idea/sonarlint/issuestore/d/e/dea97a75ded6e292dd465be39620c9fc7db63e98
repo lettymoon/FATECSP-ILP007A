@@ -1,13 +1,17 @@
 
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î'8…çÄë·1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î'8½½û†¸1
 [
-java:S5993"9Change the visibility of this constructor to "protected".(ØøÆ üÿÿÿÿ8çÄë·1
+java:S5993"9Change the visibility of this constructor to "protected".(ØøÆ üÿÿÿÿ8Â½û†¸1
 [
 java:S5993
-"9Change the visibility of this constructor to "protected".(³Äˆ¹ÿÿÿÿÿ8çÄë·1
+"9Change the visibility of this constructor to "protected".(³Äˆ¹ÿÿÿÿÿ8Ã½û†¸1
 n
-java:S6201"LReplace this instanceof check and cast with 'instanceof Retangulo retangulo'(®ÏÆ¾ùÿÿÿÿ8Ö¥Åë·1
-G	java:S106 "+Replace this use of System.out by a logger.(àÀğ›8×¥Åë·1
+java:S6201"LReplace this instanceof check and cast with 'instanceof Retangulo retangulo'(®ÏÆ¾ùÿÿÿÿ8Ë½û†¸1
+m
+java:S3457 "Q%n should be used in place of \n to produce the platform-specific line separator.(êëù:8¿àı†¸1
+F	java:S106 "+Replace this use of System.out by a logger.(êëù:8Ì½û†¸1
 j
-java:S6201!"HReplace this instanceof check and cast with 'instanceof Circulo circulo'( ñäÍşÿÿÿÿ8Ú¥Åë·1
-L	java:S106#"+Replace this use of System.out by a logger.(Öê½Šùÿÿÿÿ8Û¥Åë·1
+java:S6201!"HReplace this instanceof check and cast with 'instanceof Circulo circulo'( ñäÍşÿÿÿÿ8Í½û†¸1
+s
+java:S3457#"Q%n should be used in place of \n to produce the platform-specific line separator.(û±å”şÿÿÿÿ8ªøı†¸1
+L	java:S106#"+Replace this use of System.out by a logger.(û±å”şÿÿÿÿ8Î½û†¸1

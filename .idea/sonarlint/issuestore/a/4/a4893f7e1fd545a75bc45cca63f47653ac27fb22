@@ -1,7 +1,5 @@
 
-Ú
-java:S1598"¾This file "Matriz.java" should be located in "src/main/java/org/example/aula06/Atv6" directory, not in "/home/letty/Ãrea de Trabalho/coding/fatec/poo/ilp007/src/main/java/org/example/Atv7".(ƒÏ»óùÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÏ»óùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀìØÂúÿÿÿÿ
 B
 java:S1197",Move the array designators [][] to the type.(éÓ¾Ï
 @	java:S106	"+Replace this use of System.out by a logger.(±¡‹«

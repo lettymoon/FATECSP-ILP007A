@@ -1,0 +1,13 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î'8…çÄë·1
+[
+java:S5993"9Change the visibility of this constructor to "protected".(ØøÆ üÿÿÿÿ8çÄë·1
+[
+java:S5993
+"9Change the visibility of this constructor to "protected".(³Äˆ¹ÿÿÿÿÿ8çÄë·1
+n
+java:S6201"LReplace this instanceof check and cast with 'instanceof Retangulo retangulo'(®ÏÆ¾ùÿÿÿÿ8Ö¥Åë·1
+G	java:S106 "+Replace this use of System.out by a logger.(àÀğ›8×¥Åë·1
+j
+java:S6201!"HReplace this instanceof check and cast with 'instanceof Circulo circulo'( ñäÍşÿÿÿÿ8Ú¥Åë·1
+L	java:S106#"+Replace this use of System.out by a logger.(Öê½Šùÿÿÿÿ8Û¥Åë·1

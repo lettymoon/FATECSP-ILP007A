@@ -1,4 +1,4 @@
-package src.main.java.org.example.aula03.Atv3.ClasseContaCorrente;
+package src.main.java.org.example.Atv4.ClasseContaCorrente;
 
 public class ContaCorrente {
     private String NumConta;

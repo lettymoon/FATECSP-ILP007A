@@ -1,4 +1,4 @@
-package src.main.java.org.example.aula06.Atv6;
+package src.main.java.org.example.Atv7;
 import java.util.Scanner;
 
 public class Vetor{

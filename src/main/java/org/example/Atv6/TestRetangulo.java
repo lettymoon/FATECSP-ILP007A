@@ -1,4 +1,6 @@
-package src.main.java.org.example.Atv5;
+package src.main.java.org.example.Atv6;
+import src.main.java.org.example.Atv6.Retangulo;
+
 import java.util.Scanner;
 
 public class TestRetangulo{

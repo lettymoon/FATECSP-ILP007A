@@ -1,4 +1,5 @@
-package src.main.java.org.example.aula01.Atv01;
+package src.main.java.org.example.Atv2;
+
 /* Atividade 01 - Exercício 01 Temperatura
 
 Faça um programa em Java que leia uma temperatura em Fahrenheit, calcule e exiba seu valor em Celsius.

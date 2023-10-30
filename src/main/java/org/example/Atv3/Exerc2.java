@@ -1,4 +1,4 @@
-package src.main.java.org.example.Atv2;
+package src.main.java.org.example.Atv3;
 
 import java.util.Scanner;
 import java.util.Map;

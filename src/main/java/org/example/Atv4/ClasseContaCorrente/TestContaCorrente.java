@@ -1,4 +1,4 @@
-package src.main.java.org.example.aula03.Atv3.ClasseContaCorrente;
+package src.main.java.org.example.Atv4.ClasseContaCorrente;
 public class TestContaCorrente {
     public static void test() {
         ContaCorrente cc1 = new ContaCorrente("25252525", "Letícia", 1000.0);

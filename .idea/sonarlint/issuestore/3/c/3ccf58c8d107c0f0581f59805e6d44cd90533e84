@@ -1,0 +1,13 @@
+
+J
+java:S11211".Extract the assignment out of this expression.(ùÆà#8ùÖÕ‰¸1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î'8üÖÕ‰¸1
+c
+java:S3973&"GUse indentation to denote the code conditionally executed by this "if".(ÁÒ58‚×Õ‰¸1
+k
+java:S3973("IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8‚×Õ‰¸1
+E
+java:S1659"#Declare "placa" on a separate line.(áãÌïÿÿÿÿÿ8‘×Õ‰¸1
+s
+java:S34575"Q%n should be used in place of \n to produce the platform-specific line separator.(è€ÔÉûÿÿÿÿ8¦×Õ‰¸1
+L	java:S1065"+Replace this use of System.out by a logger.(è€ÔÉûÿÿÿÿ8§×Õ‰¸1

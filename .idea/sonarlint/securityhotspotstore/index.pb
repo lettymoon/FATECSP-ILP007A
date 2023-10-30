@@ -5,10 +5,6 @@ Z
 *src/main/java/org/example/Atv7/Matriz.java,a/4/a4893f7e1fd545a75bc45cca63f47653ac27fb22
 c
 3src/main/java/org/example/Atv5/TestAreaTerreno.java,5/7/57309ed6134ada893111d33d6ba0afa7500dcc44
-]
--src/main/java/org/example/Atv5/Retangulo.java,4/0/40e106273467f0e5362489c63b23aa2a324964c6
-a
-1src/main/java/org/example/Atv5/TestRetangulo.java,f/9/f9b74a2255b54d57e308bcf15b0bd6827e04ffd4
 _
 /src/main/java/org/example/Atv5/AreaTerreno.java,2/6/26d47baf05021ed461dc232a509dfae1aa5f0c93
 Y
@@ -19,8 +15,6 @@ Z
 .src/main/java/org/example/Atv10/Retangulo.java,1/e/1e1b3bdc077eea6bceb1b1d7e79b704db6ff16db
 Z
 *src/main/java/org/example/Atv10/Forma.java,d/e/dea97a75ded6e292dd465be39620c9fc7db63e98
-\
-,src/main/java/org/example/Atv10/Circulo.java,b/8/b89ff6e229e4ff55c6d69e06ca5f4bcba761604b
 i
 9src/main/java/org/example/Atv4/ClasseCirculo/Circulo.java,d/4/d4e856feff8074f0655aef96189877631ee35c07
 m
@@ -45,3 +39,11 @@ a
 1src/main/java/org/example/Atv6/TestRetangulo.java,d/8/d8fb66903bcbc4c62c762b653b5684fc003710f5
 ]
 -src/main/java/org/example/Atv6/Retangulo.java,2/a/2aa0a9b199e54463b138f3122f61cf946f1b9df1
+\
+,src/main/java/org/example/Atv10/Veiculo.java,3/c/3ccf58c8d107c0f0581f59805e6d44cd90533e84
+a
+1src/main/java/org/example/Atv10/TesteVeiculo.java,f/8/f8ad3fee205b30f1cd9a6d8962124d62bd25914f
+b
+2src/main/java/org/example/Atv10/TesteCaminhao.java,8/b/8bc09768e8038207d99ecc043d457b3752752518
+]
+-src/main/java/org/example/Atv10/Caminhao.java,e/e/eed6ad300d73dff0aeb81758d8a612e4a4255480

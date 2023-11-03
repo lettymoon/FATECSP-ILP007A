@@ -1,4 +1,4 @@
-# Aula 09 - Herança
+# Aula 10 - Herança
 
 ## Herança entre classes
 
@@ -13,5 +13,3 @@ A superclasse direta é a classe que a suclasse herda diretamente, e a superclas
 No java só é permitdo que cada classe tenha apenas uma superclasse direta.
 
 ![herança de classes](image.png)
-
-- [Atvidade da Aula 09](/ilp007/src/main/java/org/example/Atv9)

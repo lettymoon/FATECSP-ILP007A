@@ -51,22 +51,20 @@ Hello World!
 
 ### Aulas
 
-- [Aula 01: Introdução à disciplina](/src/main/java/org/example/1-intro)
-- [Aula 02: Introdução ao Java](/src/main/java/org/example/2-java)
-- [Aula 03: Estruturas de decisão e repetição](/src/main/java/org/example/3-estrutura-decisao-loop)
-- [Aula 04: Classes, encapsulamento e construtores](/src/main/java/org/example/4-classe)
-- [Aula 05: Sobrecarga de métodos](/src/main/java/org/example/5-metodos)
-- [Aula 06: Noções de UML](/src/main/java/org/example/6-uml)
-- [Aula 07: Arrays](/src/main/java/org/example/7-arrays)
-- [Aula 08: Revisão e Lista de Exercícios](/src/main/java/org/example/8-lista)
-- [Aula 09: Prova](-)
-- [Aula 10: Herança](/src/main/java/org/example/09-heranca)
-- [Aula 11: Polimorfismo](/src/main/java/org/example/11-polimorfismo)
-- [Aula 12: Polimorfismo](/src/main/java/org/example/12-classes-abstratas)
-- [Aula 13: Resumo e Lista de Exercícios](/src/main/java/org/example/13-lista)
-- [Aula 14: Prova](-)
-- [Aula 15: Interfaces e Tratamento de Exceções](/src/main/java/org/example/15-interface)
-- [Aula 16: Componenetes de GUI](/src/main/java/org/example/16-gui)
+- [Aula 01: Introdução à disciplina](/src/main/java/org/example/aula01intro)
+- [Aula 02: Introdução ao Java](/src/main/java/org/example/aula02java)
+- [Aula 03: Estruturas de decisão e repetição](/src/main/java/org/example/aula02loop)
+- [Aula 04: Classes, encapsulamento e construtores](/src/main/java/org/example/aula04classe)
+- [Aula 05: Sobrecarga de métodos](/src/main/java/org/example/aula05metodos)
+- [Aula 06: Noções de UML](/src/main/java/org/example/aula06uml)
+- [Aula 07: Arrays](/src/main/java/org/example/aula07arrays)
+- [Aula 08: Revisão e Lista de Exercícios](/src/main/java/org/example/aula08lista)
+- [Aula 09: Herança](/src/main/java/org/example/aula09heranca)
+- [Aula 10: Polimorfismo](/src/main/java/org/example/aula10polimorfismo)
+- [Aula 11: Polimorfismo](/src/main/java/org/example/aula11classesAbstratas)
+- [Aula 12: Resumo e Lista de Exercícios](/src/main/java/org/example/aula12lista)
+- [Aula 13: Interfaces e Tratamento de Exceções](/src/main/java/org/example/aula13interface)
+- [Aula 14: Componenetes de GUI](/src/main/java/org/example/aula14gui)
 
 ## Links Didáticos
 

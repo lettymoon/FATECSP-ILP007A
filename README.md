@@ -60,7 +60,7 @@ Hello World!
 - [Aula 07: Arrays](/src/main/java/org/example/7-arrays)
 - [Aula 08: Revisão e Lista de Exercícios](/src/main/java/org/example/8-lista)
 - [Aula 09: Prova](-)
-- [Aula 10: Herança](/src/main/java/org/example/10-heranca)
+- [Aula 10: Herança](/src/main/java/org/example/09-heranca)
 - [Aula 11: Polimorfismo](/src/main/java/org/example/11-polimorfismo)
 - [Aula 12: Polimorfismo](/src/main/java/org/example/12-classes-abstratas)
 - [Aula 13: Resumo e Lista de Exercícios](/src/main/java/org/example/13-lista)

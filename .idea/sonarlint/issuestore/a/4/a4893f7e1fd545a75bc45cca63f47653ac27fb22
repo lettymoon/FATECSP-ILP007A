@@ -1,12 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀìØÂúÿÿÿÿ
-B
-java:S1197",Move the array designators [][] to the type.(éÓ¾Ï
-@	java:S106	"+Replace this use of System.out by a logger.(±¡‹«
-@	java:S106"+Replace this use of System.out by a logger.(‹·
-E	java:S106"+Replace this use of System.out by a logger.(îëÔ¿şÿÿÿÿ
-g
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-;
-java:S3457"%String contains no format specifiers.(ï«¨°
-@	java:S106"+Replace this use of System.out by a logger.(ï«¨°
